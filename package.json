@@ -9,10 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:facebook/react-native.git",
-    "directory": "packages/eslint-config-react-native-community"
+    "url": "git@github.com:breeffy/eslint-config-react-native.git"
   },
-  "homepage": "https://github.com/facebook/react-native/tree/master/packages/eslint-config-react-native-community#readme",
+  "homepage": "https://github.com/breeffy/eslint-config-react-native",
+  "keywords": [
+    "breeffy",
+    "eslint",
+    "eslintconfig"
+  ],
   "dependencies": {
     "@babel/core": "^7.13.10",
     "@babel/eslint-parser": "^7.13.10",
