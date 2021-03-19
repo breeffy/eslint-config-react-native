@@ -1,6 +1,6 @@
 {
   "name": "@breeffy/eslint-config-react-native",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "ESLint config specific to React Native",
   "main": "index.js",
   "license": "Apache-2.0",
